@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 6ff05cc7e98de4fa0bc60b4f3e2ccc1d
+  - enabled: 1
+    path: Assets/Scenes/DebtorsMenu.unity
+    guid: 6cfb5ec843ef54534a32f755692c26c1
+  - enabled: 1
+    path: Assets/Scenes/AddDebtor.unity
+    guid: e7cd2c5f15ab34465966b8336f386726
+  - enabled: 1
+    path: Assets/Scenes/DebtorView.unity
+    guid: e9e5a709172a245a5b0bb20616703d0d
+  - enabled: 1
+    path: Assets/Scenes/Transaction.unity
+    guid: aad7893c5a0f24381a5a907a87195027
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 6958bb756d5b84e07aaea5ff980618a3
+  - enabled: 1
+    path: Assets/Scenes/DebtorInfo.unity
+    guid: 4b4b6f0f87a3f47109d75aa756d52530
